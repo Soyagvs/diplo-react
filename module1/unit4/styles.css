@@ -1,0 +1,31 @@
+body{
+    background-color: antiquewhite;
+    text-align: justify;
+}
+
+h1{
+    text-align: center;
+}
+
+img{
+    width: 200px;
+    margin-left:500px;
+    border: 2px solid black;
+    box-sizing: border-box;
+}
+
+h2{
+    text-align:center;
+}
+
+p{
+    text-align:center;
+}
+
+ol{
+    text-align: center;
+    padding-left: 550px;
+    padding-right: 550px;
+}
+
+
