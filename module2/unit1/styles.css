@@ -1,0 +1,30 @@
+body{
+    background: linear-gradient(to left ,rgb(0, 213, 255),white);
+    text-align: justify;
+}
+
+h1{
+    text-align: center;
+}
+
+img{
+    width: 210px;
+    box-shadow: 5px 5px 5px #000;
+    margin-left: 520px;
+}
+
+h2{
+    text-align:center;
+}
+
+p{
+    text-align:center;
+}
+
+ol{
+    text-align: center;
+    padding-left: 550px;
+    padding-right: 550px;
+}
+
+
